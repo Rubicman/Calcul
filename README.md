@@ -1,1 +1,1 @@
-# Калькулятор на Qt
+# Simple calculator in Qt framework
